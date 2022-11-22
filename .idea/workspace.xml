@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ea9ec7a-4af5-41fc-8250-0093e66b8459" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2HfOCMHuF9IA4NvMets5XZd2LpT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/src/component/Hedder" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ea9ec7a-4af5-41fc-8250-0093e66b8459" name="Default Changelist" comment="" />
+      <created>1668672542256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668672542256</updated>
+      <workItem from="1668672543415" duration="17922000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="594" y="317" width="721" height="452" key="EditFileWatcherDialog" timestamp="1669107199688">
+      <screen x="0" y="207" width="1920" height="873" />
+    </state>
+    <state x="594" y="317" width="721" height="452" key="EditFileWatcherDialog/1920.180.1600.900/0.207.1920.873@0.207.1920.873" timestamp="1669107199688" />
+    <state x="731" y="283" width="447" height="520" key="FileChooserDialogImpl" timestamp="1669124843429">
+      <screen x="0" y="207" width="1920" height="873" />
+    </state>
+    <state x="731" y="283" width="447" height="520" key="FileChooserDialogImpl/1920.180.1600.900/0.207.1920.873@0.207.1920.873" timestamp="1669124843428" />
+    <state x="821" y="440" width="277" height="207" key="Github.ShareDialog" timestamp="1669124830557">
+      <screen x="0" y="207" width="1920" height="873" />
+    </state>
+    <state x="821" y="440" width="277" height="207" key="Github.ShareDialog/1920.180.1600.900/0.207.1920.873@0.207.1920.873" timestamp="1669124830557" />
+    <state x="543" y="286" width="824" height="515" key="IDE.errors.dialog" timestamp="1669029896134">
+      <screen x="0" y="207" width="1920" height="873" />
+    </state>
+    <state x="543" y="286" width="824" height="515" key="IDE.errors.dialog/1920.180.1600.900/0.207.1920.873@0.207.1920.873" timestamp="1669029896134" />
+    <state x="624" y="245" key="run.anything.popup" timestamp="1669122304488">
+      <screen x="0" y="207" width="1920" height="873" />
+    </state>
+    <state x="624" y="245" key="run.anything.popup/1920.180.1600.900/0.207.1920.873@0.207.1920.873" timestamp="1669122304488" />
+  </component>
+</project>
